@@ -16,4 +16,4 @@ h4 { }
 h5 { }
 .clear { clear: both; }
 
-.page { width: 980px; margin: auto; }
+.page { width: 980px; margin: auto; padding: 10px 0; }
