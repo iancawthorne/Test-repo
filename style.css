@@ -1,0 +1,17 @@
+body {
+font-family: arial, verdana, sans-serif;
+font-size: 67.5%;
+margin: 0;
+}
+
+img { border: 0; }
+p { margin-top: 0; }
+a:link, a:visited {  }
+a:hover {  }
+
+h1 { }
+h2 { }
+h3 { }
+h4 { }
+h5 { }
+.clear { clear: both; }
